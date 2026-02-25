@@ -1,0 +1,10 @@
+{
+  "data": [
+    { "nome": "Luna", "especie": "Tubarão", "num_tanque": 3, "tipo": "peixe" },
+    { "nome": "Nemo", "especie": "Peixe-palhaço", "num_tanque": 5, "tipo": "peixe" },
+    { "nome": "Bubbles", "especie": "Peixe-dourado", "num_tanque": 2, "tipo": "peixe" },
+    { "nome": "Shelly", "especie": "Tartaruga-marinha", "num_tanque": 7, "tipo": "réptil" },
+    { "nome": "Spike", "especie": "Ouriço-do-mar", "num_tanque": 4, "tipo": "invertebrado" },
+    { "nome": "Ray", "especie": "Arraia", "num_tanque": 8, "tipo": "cartilaginoso" }
+  ]
+}
